@@ -7,10 +7,10 @@ A small example of the implementation of the gpt architecture
     nltk
 
 # Examples
-**Training data**
+    Training data:
 ![examples](results/train.png)
 
-**Model prediction**
+    Model prediction:
 ![examples](results/result.png)
 
 # Materials
